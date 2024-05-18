@@ -1,0 +1,6 @@
+
+
+& C:/Users/User/AppData/Local/Microsoft/WindowsApps/python3.11.exe "c:/Users/User/OneDrive/Área de Trabalho/exercicios python 6/exercicio2.py"
+joão@gmail.com
+lucas@gmail.com
+ricardo@gmail.com
